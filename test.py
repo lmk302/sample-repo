@@ -7,5 +7,5 @@ print(sys.executable)
 
 #r = requests.GET("https://google.com")
 #print(r.statatus_code)
-print("hello")
+print("hello2")
 
